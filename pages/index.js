@@ -257,11 +257,6 @@ export default function Home() {
     <AppLayout>
       <Heading>Home</Heading>
         
-
-
-
-
-
     </AppLayout>
   )
 }*/
