@@ -198,6 +198,8 @@ export default function Home() {
           display: flex;
           justify-content: center;
           align-items: center;
+          width: 50px;
+          height: 50px;
         }
         .tondroid-img {
           
